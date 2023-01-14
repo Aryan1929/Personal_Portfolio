@@ -1,0 +1,220 @@
+.top_container{
+    background-color: #A1B57D;  /*#6ECCAF*/
+    height: 790px;
+    text-align: center;
+    font-family: 
+}
+
+.middle_container{
+    background-color: #D3ECA7;
+    height: 1600px;
+    text-align: center;
+    font-family: 
+    
+}
+
+.bottom_container{
+    text-align: center;
+    background-color: #D3ECA7;
+    height: 80px;
+    text-align: center;
+    font-family: 
+    
+}
+
+body{
+    margin: 0px;
+}
+
+.heading1{
+    color: #285430;
+    margin: 0px;
+    display: inline-block;
+    position: relative;
+    bottom: -230px;
+    font-size: 70px;
+    font-family: 'sacramento', cursive;
+}
+
+.webdev{
+    position: relative;
+    bottom: -200px;
+    font-size: 30px;
+    color: #3B185F;
+    font-family: 'montserrat';
+}
+
+.avatar{
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    width: 90px;
+}
+
+.profileimg{
+    width: 200px;
+    position: relative;
+    bottom: -20px;
+}
+
+.mountain2{
+   position: relative;
+   bottom: -272px;
+   left: -180px;
+}
+
+.cloud1{
+    position: relative;
+    top: -85px;
+    right: -230px;
+}
+
+.cloud2{
+    position: relative;
+    top: -300px;
+    right: -600px;
+}
+
+
+.hr1{
+    border-style: dotted none none;
+    border-width: 10px;
+    height: 10px;
+    color: #A1B57D;
+    width: 10%;
+    position: relative;
+    bottom: -80px;
+}
+
+
+.avatar:hover{
+    width: 95px;
+    box-shadow: #285430;
+}
+
+.profileavatar{
+    width:200px;
+    position: relative;
+    bottom: -40px;
+}
+
+.hello{
+    color: #395144;
+    font-size: 50px;
+    font-family:'caveat';
+    position: relative;
+    bottom: -40px;
+    
+}
+
+.p1{
+    position: relative;
+    bottom: -30px;
+    color: #4E6C50;
+    font-family:'montserrat';
+}
+
+.skill{
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+    left: -7px;
+    font-size: 80px;
+    color: #19282F;
+    font-family: 'caveat';
+    font-weight: normal;
+
+}
+
+.skill-row1{
+    display: inline-block;
+    width: 50%;
+    margin-top: px;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row2{
+    display: inline-block;
+    width: 50%;
+    margin-top: px;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-body{
+    font-family: 'montserrat';
+    margin-top: 0px;
+    color: #19282F;
+}
+
+.skill-head{
+    color: #B33030;
+    font-family: 'patrick hand';
+    margin-bottom: 0px;
+}
+.skill-gif1{
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    bottom: -30px;
+}
+
+.skill-gif2{
+    float: right;
+    margin-left: 20px;
+    position: relative;
+    bottom: -30px;
+}
+
+iframe{
+    background-color: #D3ECA7;
+}
+
+.coder{
+    width: 200px;
+}
+
+.hr2{
+    border-style: dotted none none;
+    border-width: 10px;
+    height: 10px;
+    color: #A1B57D;
+    width: 10%;
+    position: relative;
+    bottom: -50px;
+}    
+
+.Get_in_touch{
+    position: relative;
+    bottom: -80px;
+    font-family: 'caveat';
+    font-size: 70px;
+    color: #19282F;
+}
+
+.p2{
+    position: relative;
+    bottom: -70px;
+    font-family: 'patrick hand';
+    color: maroon;
+    line-height: 27px;
+    font-size: 22px;
+}
+
+.footer-link{
+    position: relative;
+    top: -105px;
+}
+
+.icon{
+    width: 30px;
+}
+
+.icon:hover{
+    width: 35px;
+}
+
+.p3{
+    font-family: 'patrick hand';
+}
